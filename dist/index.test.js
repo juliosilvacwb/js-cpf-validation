@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const _1 = require(".");
-describe('Tests for CPF validadtion', () => {
+describe('Tests for CPF validation', () => {
     test('Test a valid CPF without mask', () => {
         expect((0, _1.isValidCPF)("32595891049")).toBeTruthy();
     });
