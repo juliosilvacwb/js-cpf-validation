@@ -1,7 +1,7 @@
 {
   "name": "js-cpf-validation",
   "version": "1.1.0",
-  "description": "Lib for cpf validation",
+  "description": "Lib for CPF validation",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
   "scripts": {

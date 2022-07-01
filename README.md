@@ -1,6 +1,6 @@
 # js-cpf-validation
 
-Lib to cpf validation
+Lib for CPF validation
 
 #### Javascript example:
 ```js
