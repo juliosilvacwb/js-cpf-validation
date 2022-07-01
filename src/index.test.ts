@@ -1,6 +1,6 @@
 import { isValidCPF } from ".";
 
-describe('Tests for CPF validadtion', () => {
+describe('Tests for CPF validation', () => {
 
     test('Test a valid CPF without mask', () => {
         expect(isValidCPF("32595891049")).toBeTruthy();
